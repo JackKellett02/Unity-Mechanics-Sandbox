@@ -14,5 +14,8 @@ Sobel Outline Shader:
 - This is a shader I am currently researching how to implement using the Sobel Edge Detection algorithm to Create a cartoon style outline on 3D objects.
 
 ----------------------------------------------------------------------------------------------------------------
-
+Character Controllers:
 ----------------------------------------------------------------------------------------------------------------
+First Person Character Controller:
+- This is a character controller I am designing using unity's input system that I can use in any project to navigate through a 3D world.
+- It is controller and keyboard/mouse compatible.
